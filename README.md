@@ -2,7 +2,7 @@
 ![Color Chart](hu-corporate-colors.png?raw=true "Color Chart")
 
 ## What’s included
-`hu-corporate-colors.less` includes variables for
+`hu-corporate-colors.less` includes the following variables
 
     @hu-blue
     @hu-black
