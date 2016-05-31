@@ -17,7 +17,7 @@ and for each color tints from `@hu-colorname-100` to `@hu-colorname-10` in inter
 
 ## Importing
 
-Importing works pretty much as expected. You can import a .less file, and all the variables in it will be available. The extension is optionally specified for .less files.
+Importing works pretty much as expected. You can import the .less file, and all the variables in it will be available. The extension is optionally specified for .less files.
 
     @import "hu-corporate-colors";
 
